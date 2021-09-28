@@ -15,6 +15,7 @@
     "ele:build": "yarn build && electron-builder"
   },
   "dependencies": {
+    "ant-design-vue": "^2.2.8",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vuex": "^4.0.0-0"
